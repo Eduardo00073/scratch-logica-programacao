@@ -42,3 +42,15 @@ Material didático de **Scratch** para ensino de **Lógica de Programação** de
 ---
 
 <p align="center"><i>Material didático desenvolvido como Professor de Programação, Informática e Robótica.</i></p>
+
+---
+
+## ⭐ Gostou do projeto?
+
+Se este material te ajudou, deixe uma estrela — isso ajuda outros professores e estudantes a encontrarem o repositório.
+
+### 🔗 Outros projetos relacionados
+
+📟 [Micro:bit Projetos](https://github.com/Eduardo00073/microbit-projetos) — projetos de robótica escolar com MicroPython e MakeCode.
+
+🤖 [Arduino Robótica](https://github.com/Eduardo00073/arduino-robotica) — sketches e projetos de robótica e automação com Arduino.
